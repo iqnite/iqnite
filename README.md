@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iqnite
 - 👀 I’m interested in coding, robots, Rubik's cube, and Spikeball.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning C#.
 - 🚀 I'm currently not working on anything, please give ideas.
-- 💞️ I’m collaborating on Scratch (http://scratch.mit.edu), Scratch Addons (http://scratchaddons.com), and TurboWarp (http://turbowarp.org).
+- 💞️ I’m collaborating on [Scratch](http://scratch.mit.edu), [Scratch Addons](http://scratchaddons.com), and [TurboWarp](http://turbowarp.org).
 - 📫 You can reach me on http://ggigabyte.repl.co
 
 <!---
