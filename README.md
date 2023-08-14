@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iqnite
 - 👀 I’m interested in coding, robots, Rubik's cube, and Spikeball.
 - 🌱 I’m currently learning C.
-- 🚀 I'm currently working on a game.
+- 🚀 I'm currently working on a new programming language (:-O) and a game.
 - 💞️ I’m collaborating on [Scratch](http://scratch.mit.edu/users/philipp2007), [Scratch Addons](http://scratchaddons.com), and [TurboWarp](http://turbowarp.org).
 - 📫 You can reach me on [my website](http://ggigabyte.repl.co).
 
