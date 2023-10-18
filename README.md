@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @iqnite
-- 👀 I’m interested in coding, robots, Rubik's cube, and Spikeball.
-- 🌱 I’m currently learning C.
-- 🚀 I'm currently working on a new programming language (:-O) and a game.
-- 💞️ I’m collaborating on [Scratch](http://scratch.mit.edu/users/philipp2007), [Scratch Addons](http://scratchaddons.com), and [TurboWarp](http://turbowarp.org).
+[![trophy](https://github-profile-trophy.vercel.app/?username=iqnite&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 👀 Interested in coding, robots, Rubik's cube, and Spikeball
+- 🌱 Learning C++
+- 🚀 Working on: too much
+- ⏰ Free time: too less
 - 📫 You can reach me on [my website](http://ggigabyte.repl.co).
+- ⭐ My top programming languages rank:
+  * 1. C#: Flexible, feature-rich, and clear.
+  * 2. Python: Easy when you need it, complicated when you need it. Problem: The syntax isn't flexible.
+  * 3. JavaScript: Simple to understand and flexible, but it sucks when JS objects have different names than those in CSS.
+  * 4. C: The mightiest language, but with great power comes great responsibility, and great responsibility requires great sacrifice.
+  * 5. Java: Its OOP is annoying, tried it once and never got back to it. Scala is more flexible and easier, but I didn't look at it much yet.
+
 
                   ..'''''......................                                                     
                   .,lllloooodddddxxxkxxxxxxdool,.  ..                                               
