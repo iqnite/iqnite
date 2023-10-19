@@ -2,11 +2,11 @@
 
 - 👀 Interested in coding, robots, Rubik's cube, and Spikeball
 - 🌱 Learning C++
-- 🚀 Working on too much (including a game and 2 programming languages)
+- 🚀 Working on too much (including a game and two programming languages)
 - ⏰ Free time: too less
 - 📫 You can reach me on [my website](http://ggigabyte.repl.co).
 
-#### ⭐ My top programming languages rank:
+⭐ My top programming languages rank:
 1. C#: Flexible, feature-rich, and clear.
 2. Python: Easy when you need it, complicated when you need it. Problem: The syntax isn't flexible.
 3. JavaScript: Simple to understand and flexible, but it sucks when JS objects have different names than those in CSS.
