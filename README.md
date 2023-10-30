@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=iqnite&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👀 Interested in coding, robots, Rubik's cube, and Spikeball
+- 👀 Student interested in coding, robots, Rubik's cube, and Spikeball
 - 🌱 Learning C++
 - 🚀 Working on too much (including a game and two programming languages)
 - ⏰ Free time: too less
