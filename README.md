@@ -55,4 +55,4 @@
 iqnite/iqnite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Random nerd stuff: Did you that when a bomb falls, there's a distance from the explosions where pizza gets perfectly cooked?
+Random nerd stuff: Sea cucumbers can throw out their stomach and then "eat" it at a later point.
