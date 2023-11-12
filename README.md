@@ -55,4 +55,4 @@
 iqnite/iqnite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Random nerd stuff: Sea cucumbers can throw out their stomach and then "eat" it at a later point.
+Random nerd stuff: Marty McFly steps into his time machine in 2000 and travels back to the 80s. There, he meets Doc, who asks him what happened. Marty says "Previously, I was in the year 2000, then I traveled to 1980." If you consider that "previously" and "was" are words to talk about the past, it means that by traveling back in time, he actually experienced as he jumped forward in time.
