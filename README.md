@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=iqnite&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iqnite&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👀 Student interested in coding, robots, Rubik's cube, and Spikeball
 - 🌱 Learning C++
