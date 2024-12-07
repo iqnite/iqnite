@@ -3,13 +3,12 @@
 - 👀 Student interested in coding, robots, Rubik's cube, and Spikeball
 - 🌱 Learning C++
 - 🚀 Working on too much (including a game and two programming languages)
-- ⏰ Free time: too less
 - 📫 You can reach me on [my website](http://iqnite.github.io).
 
 ⭐ My top programming languages rank:
 1. C#: Flexible, feature-rich, and clear.
 2. Python: Easy when you need it, complicated when you need it. Problem: The syntax isn't flexible.
-3. JavaScript: Simple to understand and flexible, but it sucks when JS objects have different names than those in CSS.
+3. JavaScript: Simple to understand and flexible, but it has some really weird "gimmicks".
 4. C: The mightiest language, but with great power comes great responsibility, and great responsibility requires great sacrifice.
 5. Scala: Easier and more flexible than Java, I simply haven't looked much into it yet.
 
