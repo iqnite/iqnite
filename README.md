@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=iqnite&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👀 Student interested in coding, robots, Rubik's cube, and Spikeball
-- 🌱 Learning C++
+- 🌱 Learning Rust
 - 🚀 Working on too much (including a game and two programming languages)
 - 📫 You can reach me on [my website](http://iqnite.github.io).
 
