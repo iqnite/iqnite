@@ -1,17 +1,12 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=iqnite&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+# Welcome to my profile!
 
-- 👀 Student interested in coding, robots, Rubik's cube, and Spikeball
-- 🌱 Learning Rust
-- 🚀 Working on too much (including a game and two programming languages)
-- 📫 You can reach me on [my website](http://iqnite.github.io).
+... where you can find a lot of cool stuff... and a lot of stuff where I don't remember why I made it in the first place.
 
-⭐ My top programming languages rank:
-1. C#: Flexible, feature-rich, and clear.
-2. Python: Easy when you need it, complicated when you need it. Problem: The syntax isn't flexible.
-3. JavaScript: Simple to understand and flexible, but it has some really weird "gimmicks".
-4. C: The mightiest language, but with great power comes great responsibility, and great responsibility requires great sacrifice.
-5. Scala: Easier and more flexible than Java, I simply haven't looked much into it yet.
+In my free time, I like to make apps and games and tinker around with Raspberry Pi and electronics. You can find some of my creations here, some others on [my website](https://iqnite.github.io/). In my coding breaks I play around with Rubik's cube or the Perplexus (a thing I don't recommend you to buy). As I mostly work on Discord apps and Raspberry Pi, the programming language I use the most is Python in Visual Studio Code. I love Pyhon for its pragmatic syntax and VSCode for its features, but sometimes I wish some things were different, which is why I'm designing a programming language and an IDE myself. I would also love my girlfriend, if I had one...
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqnite&theme=transparent&count_private=true&show_icons=true&border-radius=10&rank_icon=github&locale=en&cache_seconds=3600)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=iqnite&theme=transparent&layout=donut&langs_count=5&border_radius=10&show_icons=true&locale=en&cache_seconds=3600)
 
                   ..'''''......................                                                     
                   .,lllloooodddddxxxkxxxxxxdool,.  ..                                               
