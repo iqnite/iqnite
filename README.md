@@ -2,7 +2,7 @@
 
 ... where you can find a lot of cool stuff... and a lot of stuff where I don't remember why I made it in the first place.
 
-I'm a student in IT and engineering who likes to make apps and games and tinker around with Raspberry Pi and electronics. You can find some of my creations here, some others on [my website](https://iqnite.github.io/). As I mostly work on Discord apps and Raspberry Pi, the programming language I use the most is Python in Visual Studio Code. I love Pyhon for its pragmatic syntax and VSCode for its features, but sometimes I wish some things were different, which is why I'm designing a programming language and an IDE myself. I would also love my girlfriend, if I had one...
+I'm a student in IT and engineering who likes to make apps and games and tinker around with Raspberry Pi and electronics. You can find some of my creations here, some others on [my website](https://iqnite.github.io/). 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqnite&theme=transparent&count_private=true&show_icons=true&border-radius=10&rank_icon=github&locale=en&cache_seconds=3600)
 
