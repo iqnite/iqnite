@@ -17,7 +17,7 @@ I'm a student in IT and engineering who likes to make apps and games and tinker 
 - [Trilaterator](https://github.com/iqnite/triangulation): Network localization with ESP32/Arduino
 - [Phemote](https://github.com/iqnite/phemote): Phone remote controller
 
-### Stable, maintenance only
+### Maintenance only
 
 - [RBN-Pal](https://github.com/iqnite/rbn-pal): Add-on for the Reverse Beacon Network
 - [pySPEC](https://github.com/iqnite/pyccd-spectrometer): Spectroscopy software
