@@ -29,16 +29,15 @@ I'm a student in IT and engineering who likes to make apps and games and tinker 
 [All projects](https://github.com/iqnite?tab=repositories)
 
 ```
-_       ____      _
-\ \   /  __  \   / /
- \ \_|  /  \  |_/ /
-  \__|  \██/  |__/      
-     |________|
-    |__________|
-     | |    | |
-     | |    | |
-     | |    | |
-      ‾      ‾
+ _      ____      _         ____   ____            
+\ \   /  __  \   / /       <____███____>          
+ \ \_|  /  \  |_/ /            _|_|_      _       
+  \__|  \██/  |__/           /  ___  \   / /      
+     |________|       ______|  / █ \  |_/ /       
+    |__________|     |______|  \___/  |__/        
+     | |    | |             |_________|           
+     | |    | |        ____|___________|____       
+     |_|    |_|       |_______|     |_______|     s
 ```
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqnite&theme=transparent&count_private=true&show_icons=true&border-radius=10&rank_icon=github&locale=en&cache_seconds=3600)
