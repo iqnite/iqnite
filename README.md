@@ -29,15 +29,15 @@ I'm a student in IT and engineering who likes to make apps and games and tinker 
 [All projects](https://github.com/iqnite?tab=repositories)
 
 ```
- _      ____      _         ____   ____            
-\ \   /  __  \   / /       <____███____>          
- \ \_|  /  \  |_/ /            _|_|_      _       
-  \__|  \██/  |__/           /  ___  \   / /      
-     |________|       ______|  / █ \  |_/ /       
-    |__________|     |______|  \___/  |__/        
-     | |    | |             |_________|           
-     | |    | |        ____|___________|____       
-     |_|    |_|       |_______|     |_______|     s
+ _      ____      _                                         ____       oO0Oo                                    
+\ \   /  __  \   / /                                      /  __  \ .*({@O0O@})                                        
+ \ \_|  /  \  |_/ /     _______      ___________       __|  /\/\  |__   O0O                                  
+  \__|  \██/  |__/     |  _____|____|___________|     / _|  \/\/  |_ \                                 
+     |________|        |  | |__________|             / / |________| \ \                             
+    |__________|       |__|  |   __   |             /_/ |__________| \_\                             
+     | |    | |         _____|  / █\  |_____             | |    | |                                    
+     | |    | |        |   __|  \__/  |__   |            | |    | |                                      
+     |_|    |_|        |__|   \ ____ /   |__|            |_|    |_|                                     
 ```
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqnite&theme=transparent&count_private=true&show_icons=true&border-radius=10&rank_icon=github&locale=en&cache_seconds=3600)
